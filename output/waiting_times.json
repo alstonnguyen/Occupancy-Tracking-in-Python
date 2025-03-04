@@ -1,0 +1,560 @@
+[
+    {
+        "id": "6b86b273ff",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "d4735e3a26",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "4e07408562",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "4b227777d4",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "ef2d127de3",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "e7f6c01177",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "7902699be4",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "2c624232cd",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "4fc82b26ae",
+        "entry_time": 0.2,
+        "exit_time": 35.0,
+        "total_wait": 34.8
+    },
+    {
+        "id": "8527a891e2",
+        "entry_time": 0.26666666666666666,
+        "exit_time": 35.0,
+        "total_wait": 34.733333333333334
+    },
+    {
+        "id": "e629fa6598",
+        "entry_time": 0.26666666666666666,
+        "exit_time": 35.0,
+        "total_wait": 34.733333333333334
+    },
+    {
+        "id": "b17ef6d19c",
+        "entry_time": 0.26666666666666666,
+        "exit_time": 35.0,
+        "total_wait": 34.733333333333334
+    },
+    {
+        "id": "4523540f15",
+        "entry_time": 0.26666666666666666,
+        "exit_time": 35.0,
+        "total_wait": 34.733333333333334
+    },
+    {
+        "id": "4ec9599fc2",
+        "entry_time": 0.3333333333333333,
+        "exit_time": 35.0,
+        "total_wait": 34.666666666666664
+    },
+    {
+        "id": "9400f1b21c",
+        "entry_time": 0.3333333333333333,
+        "exit_time": 35.0,
+        "total_wait": 34.666666666666664
+    },
+    {
+        "id": "f5ca38f748",
+        "entry_time": 0.3333333333333333,
+        "exit_time": 35.0,
+        "total_wait": 34.666666666666664
+    },
+    {
+        "id": "6f4b661212",
+        "entry_time": 0.4,
+        "exit_time": 35.0,
+        "total_wait": 34.6
+    },
+    {
+        "id": "785f3ec7eb",
+        "entry_time": 0.4,
+        "exit_time": 35.0,
+        "total_wait": 34.6
+    },
+    {
+        "id": "c2356069e9",
+        "entry_time": 0.8666666666666667,
+        "exit_time": 35.0,
+        "total_wait": 34.13333333333333
+    },
+    {
+        "id": "35135aaa6c",
+        "entry_time": 1.9333333333333333,
+        "exit_time": 35.0,
+        "total_wait": 33.06666666666667
+    },
+    {
+        "id": "624b60c58c",
+        "entry_time": 2.066666666666667,
+        "exit_time": 35.0,
+        "total_wait": 32.93333333333333
+    },
+    {
+        "id": "9f14025af0",
+        "entry_time": 3.8666666666666667,
+        "exit_time": 35.0,
+        "total_wait": 31.133333333333333
+    },
+    {
+        "id": "0b918943df",
+        "entry_time": 4.6,
+        "exit_time": 35.0,
+        "total_wait": 30.4
+    },
+    {
+        "id": "d59eced1de",
+        "entry_time": 4.8,
+        "exit_time": 35.0,
+        "total_wait": 30.2
+    },
+    {
+        "id": "3d914f9348",
+        "entry_time": 5.933333333333334,
+        "exit_time": 35.0,
+        "total_wait": 29.066666666666666
+    },
+    {
+        "id": "811786ad1a",
+        "entry_time": 6.933333333333334,
+        "exit_time": 35.0,
+        "total_wait": 28.066666666666666
+    },
+    {
+        "id": "31489056e0",
+        "entry_time": 7.733333333333333,
+        "exit_time": 35.0,
+        "total_wait": 27.266666666666666
+    },
+    {
+        "id": "0e17daca5f",
+        "entry_time": 8.2,
+        "exit_time": 35.0,
+        "total_wait": 26.8
+    },
+    {
+        "id": "031b4af519",
+        "entry_time": 8.266666666666667,
+        "exit_time": 35.0,
+        "total_wait": 26.733333333333334
+    },
+    {
+        "id": "2fca346db6",
+        "entry_time": 8.533333333333333,
+        "exit_time": 35.0,
+        "total_wait": 26.46666666666667
+    },
+    {
+        "id": "02d20bbd7e",
+        "entry_time": 8.6,
+        "exit_time": 35.0,
+        "total_wait": 26.4
+    },
+    {
+        "id": "6208ef0f77",
+        "entry_time": 9.2,
+        "exit_time": 35.0,
+        "total_wait": 25.8
+    },
+    {
+        "id": "81b8a03f97",
+        "entry_time": 9.533333333333333,
+        "exit_time": 35.0,
+        "total_wait": 25.46666666666667
+    },
+    {
+        "id": "da4ea2a550",
+        "entry_time": 9.533333333333333,
+        "exit_time": 35.0,
+        "total_wait": 25.46666666666667
+    },
+    {
+        "id": "a68b412c42",
+        "entry_time": 9.533333333333333,
+        "exit_time": 35.0,
+        "total_wait": 25.46666666666667
+    },
+    {
+        "id": "a21855da08",
+        "entry_time": 10.4,
+        "exit_time": 35.0,
+        "total_wait": 24.6
+    },
+    {
+        "id": "8722616204",
+        "entry_time": 10.933333333333334,
+        "exit_time": 35.0,
+        "total_wait": 24.066666666666666
+    },
+    {
+        "id": "f369cb89fc",
+        "entry_time": 11.4,
+        "exit_time": 35.0,
+        "total_wait": 23.6
+    },
+    {
+        "id": "5316ca1c5d",
+        "entry_time": 11.8,
+        "exit_time": 35.0,
+        "total_wait": 23.2
+    },
+    {
+        "id": "a46e37632f",
+        "entry_time": 11.933333333333334,
+        "exit_time": 35.0,
+        "total_wait": 23.066666666666666
+    },
+    {
+        "id": "b4944c6ff0",
+        "entry_time": 12.133333333333333,
+        "exit_time": 35.0,
+        "total_wait": 22.866666666666667
+    },
+    {
+        "id": "434c9b5ae5",
+        "entry_time": 12.133333333333333,
+        "exit_time": 35.0,
+        "total_wait": 22.866666666666667
+    },
+    {
+        "id": "8b940be7fb",
+        "entry_time": 12.333333333333334,
+        "exit_time": 35.0,
+        "total_wait": 22.666666666666664
+    },
+    {
+        "id": "cd70bea023",
+        "entry_time": 12.466666666666667,
+        "exit_time": 35.0,
+        "total_wait": 22.53333333333333
+    },
+    {
+        "id": "1da51b8d8f",
+        "entry_time": 12.6,
+        "exit_time": 35.0,
+        "total_wait": 22.4
+    },
+    {
+        "id": "8241649609",
+        "entry_time": 12.733333333333333,
+        "exit_time": 35.0,
+        "total_wait": 22.266666666666666
+    },
+    {
+        "id": "ad48ff9941",
+        "entry_time": 13.2,
+        "exit_time": 35.0,
+        "total_wait": 21.8
+    },
+    {
+        "id": "d6d824abba",
+        "entry_time": 13.666666666666666,
+        "exit_time": 35.0,
+        "total_wait": 21.333333333333336
+    },
+    {
+        "id": "ad57366865",
+        "entry_time": 13.866666666666667,
+        "exit_time": 35.0,
+        "total_wait": 21.133333333333333
+    },
+    {
+        "id": "37834f2f25",
+        "entry_time": 14.0,
+        "exit_time": 35.0,
+        "total_wait": 21.0
+    },
+    {
+        "id": "454f63ac30",
+        "entry_time": 14.133333333333333,
+        "exit_time": 35.0,
+        "total_wait": 20.866666666666667
+    },
+    {
+        "id": "3346f2bbf6",
+        "entry_time": 14.533333333333333,
+        "exit_time": 35.0,
+        "total_wait": 20.46666666666667
+    },
+    {
+        "id": "6c658ee83f",
+        "entry_time": 16.133333333333333,
+        "exit_time": 35.0,
+        "total_wait": 18.866666666666667
+    },
+    {
+        "id": "28dae7c8bd",
+        "entry_time": 16.4,
+        "exit_time": 35.0,
+        "total_wait": 18.6
+    },
+    {
+        "id": "e5b861a6d8",
+        "entry_time": 16.466666666666665,
+        "exit_time": 35.0,
+        "total_wait": 18.533333333333335
+    },
+    {
+        "id": "2ac878b0e2",
+        "entry_time": 16.533333333333335,
+        "exit_time": 35.0,
+        "total_wait": 18.466666666666665
+    },
+    {
+        "id": "2abaca4911",
+        "entry_time": 16.8,
+        "exit_time": 35.0,
+        "total_wait": 18.2
+    },
+    {
+        "id": "0f8ef3377b",
+        "entry_time": 18.0,
+        "exit_time": 35.0,
+        "total_wait": 17.0
+    },
+    {
+        "id": "2747b7c718",
+        "entry_time": 18.266666666666666,
+        "exit_time": 35.0,
+        "total_wait": 16.733333333333334
+    },
+    {
+        "id": "6566230e3a",
+        "entry_time": 18.333333333333332,
+        "exit_time": 35.0,
+        "total_wait": 16.666666666666668
+    },
+    {
+        "id": "eeca91fd43",
+        "entry_time": 18.333333333333332,
+        "exit_time": 35.0,
+        "total_wait": 16.666666666666668
+    },
+    {
+        "id": "dbb1ded63b",
+        "entry_time": 18.4,
+        "exit_time": 35.0,
+        "total_wait": 16.6
+    },
+    {
+        "id": "13671077b6",
+        "entry_time": 18.6,
+        "exit_time": 35.0,
+        "total_wait": 16.4
+    },
+    {
+        "id": "36ebe205bc",
+        "entry_time": 18.666666666666668,
+        "exit_time": 35.0,
+        "total_wait": 16.333333333333332
+    },
+    {
+        "id": "d6a4031733",
+        "entry_time": 19.066666666666666,
+        "exit_time": 35.0,
+        "total_wait": 15.933333333333334
+    },
+    {
+        "id": "0a5b046d07",
+        "entry_time": 19.333333333333332,
+        "exit_time": 35.0,
+        "total_wait": 15.666666666666668
+    },
+    {
+        "id": "1d28c12056",
+        "entry_time": 19.333333333333332,
+        "exit_time": 35.0,
+        "total_wait": 15.666666666666668
+    },
+    {
+        "id": "043066daf2",
+        "entry_time": 20.733333333333334,
+        "exit_time": 35.0,
+        "total_wait": 14.266666666666666
+    },
+    {
+        "id": "1d0ebea552",
+        "entry_time": 20.733333333333334,
+        "exit_time": 35.0,
+        "total_wait": 14.266666666666666
+    },
+    {
+        "id": "210e3b160c",
+        "entry_time": 20.8,
+        "exit_time": 35.0,
+        "total_wait": 14.2
+    },
+    {
+        "id": "3f9807cb9a",
+        "entry_time": 23.066666666666666,
+        "exit_time": 35.0,
+        "total_wait": 11.933333333333334
+    },
+    {
+        "id": "f57e5cb1f4",
+        "entry_time": 24.4,
+        "exit_time": 35.0,
+        "total_wait": 10.600000000000001
+    },
+    {
+        "id": "41e521adf8",
+        "entry_time": 26.8,
+        "exit_time": 35.0,
+        "total_wait": 8.2
+    },
+    {
+        "id": "dac53c17c2",
+        "entry_time": 26.866666666666667,
+        "exit_time": 35.0,
+        "total_wait": 8.133333333333333
+    },
+    {
+        "id": "cba28b89eb",
+        "entry_time": 27.466666666666665,
+        "exit_time": 35.0,
+        "total_wait": 7.533333333333335
+    },
+    {
+        "id": "01d54579da",
+        "entry_time": 27.533333333333335,
+        "exit_time": 35.0,
+        "total_wait": 7.466666666666665
+    },
+    {
+        "id": "bfa7634640",
+        "entry_time": 28.2,
+        "exit_time": 35.0,
+        "total_wait": 6.800000000000001
+    },
+    {
+        "id": "b8aed072d2",
+        "entry_time": 28.266666666666666,
+        "exit_time": 35.0,
+        "total_wait": 6.733333333333334
+    },
+    {
+        "id": "7045d16ae7",
+        "entry_time": 28.933333333333334,
+        "exit_time": 35.0,
+        "total_wait": 6.066666666666666
+    },
+    {
+        "id": "7559ca4a95",
+        "entry_time": 29.666666666666668,
+        "exit_time": 35.0,
+        "total_wait": 5.333333333333332
+    },
+    {
+        "id": "a4e00d7e6a",
+        "entry_time": 29.866666666666667,
+        "exit_time": 35.0,
+        "total_wait": 5.133333333333333
+    },
+    {
+        "id": "5a39cadd1b",
+        "entry_time": 30.0,
+        "exit_time": 35.0,
+        "total_wait": 5.0
+    },
+    {
+        "id": "43974ed740",
+        "entry_time": 30.266666666666666,
+        "exit_time": 35.0,
+        "total_wait": 4.733333333333334
+    },
+    {
+        "id": "4621c1d55f",
+        "entry_time": 30.466666666666665,
+        "exit_time": 35.0,
+        "total_wait": 4.533333333333335
+    },
+    {
+        "id": "fc56dbc6d4",
+        "entry_time": 30.466666666666665,
+        "exit_time": 35.0,
+        "total_wait": 4.533333333333335
+    },
+    {
+        "id": "f8809aff4d",
+        "entry_time": 30.533333333333335,
+        "exit_time": 35.0,
+        "total_wait": 4.466666666666665
+    },
+    {
+        "id": "8df66f64b5",
+        "entry_time": 31.4,
+        "exit_time": 35.0,
+        "total_wait": 3.6000000000000014
+    },
+    {
+        "id": "d29d53701d",
+        "entry_time": 31.666666666666668,
+        "exit_time": 35.0,
+        "total_wait": 3.333333333333332
+    },
+    {
+        "id": "fa2b7af0a8",
+        "entry_time": 31.933333333333334,
+        "exit_time": 35.0,
+        "total_wait": 3.0666666666666664
+    },
+    {
+        "id": "84a5092e4a",
+        "entry_time": 33.8,
+        "exit_time": 35.0,
+        "total_wait": 1.2000000000000028
+    },
+    {
+        "id": "dfe62e836a",
+        "entry_time": 34.46666666666667,
+        "exit_time": 35.0,
+        "total_wait": 0.5333333333333314
+    },
+    {
+        "id": "9d693eeee1",
+        "entry_time": 34.53333333333333,
+        "exit_time": 35.0,
+        "total_wait": 0.46666666666666856
+    },
+    {
+        "id": "a0eaec5a55",
+        "entry_time": 34.733333333333334,
+        "exit_time": 35.0,
+        "total_wait": 0.2666666666666657
+    }
+]
